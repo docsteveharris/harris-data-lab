@@ -6,7 +6,7 @@ widget: hero
 widget_id: harris-lab-about-footer
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Harris Lab
 subtitle: ""
 design:
   columns: "1"
