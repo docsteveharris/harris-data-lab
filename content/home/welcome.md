@@ -6,8 +6,9 @@ widget: hero
 widget_id: harris-lab-about-footer
 headless: true
 weight: 10
-title: Harris Lab
-subtitle: ""
+title: Harris Data Lab
+subtitle: Translational Data Science for the NHS
+active: true
 design:
   columns: "1"
 hero_media: welcome.jpg
