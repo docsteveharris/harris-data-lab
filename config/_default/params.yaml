@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: Mr Robot
-day_night: true
+theme: lab_theme
+day_night: false
 font: Minimal
 font_size: S
 
@@ -15,8 +15,8 @@ font_size: S
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: Translational Data Science for the NHS.
-twitter: ''
+description: Harris Data Lab.
+twitter: '@datascibc'
 
 # Contact (edit or remove options as required)
 
