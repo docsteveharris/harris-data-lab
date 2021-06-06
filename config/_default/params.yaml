@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: 1950s
 day_night: false
-font: native
+font: minimal
 font_size: S
 
 # SEO
