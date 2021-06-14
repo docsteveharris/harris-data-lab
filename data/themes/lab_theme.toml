@@ -8,14 +8,14 @@ is_light = false
 primary = "rgb(156, 164, 63)"
 
 # Menu
-menu_primary = "#fcee0a"
+menu_primary = "#9ca43e"
 menu_text = "#000"
 menu_text_active = "rgb(156, 164, 63)"
 menu_title = "#000"
 
 [dark]
   # Menu
-  menu_primary = "#fcee0a"
+  menu_primary = "#9ca43e"
   menu_text = "#000"
   menu_text_active = "#000"
   menu_title = "#000"
