@@ -19,10 +19,8 @@ authors:
   - "PS; SNAP-2:"
   - EPICCS collaborators; Moonesinghe
   - SR
-author_notes:
-  - Equal contribution
-  - Equal contribution
-doi: 10.1371/journal.pmed.100325310.1371/journal.pmed.1003253
+author_notes: []
+doi: 10.1371/journal.pmed.1003253
 publication_short: PLoS Med
 abstract: "BACKGROUND:  Preoperative risk prediction is important for guiding
   clinical decision-making and resource allocation. Clinicians frequently rely
@@ -68,7 +66,7 @@ abstract: "BACKGROUND:  Preoperative risk prediction is important for guiding
   resources such as critical care and to support patient involvement in clinical
   decision-making."
 tags:
-  - Source Themes
+  - SNAP-2
 projects: []
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
@@ -87,7 +85,7 @@ publication: PLoS Medicine
 featured: false
 date: 2021-06-14T21:06:40.811Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
