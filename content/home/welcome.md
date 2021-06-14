@@ -11,7 +11,6 @@ subtitle: Translational Data Science for the NHS
 active: true
 design:
   columns: "1"
-hero_media: welcome.jpg
 ---
 An clinical academic lab group based between [UCLH](https://www.uclh.nhs.uk/our-services/find-service/critical-care) and [UCL's Institute of Health Informatics](https://www.ucl.ac.uk/health-informatics/groups/translational-data-science).
 
