@@ -21,23 +21,22 @@ twitter: '@datascibc'
 # Contact (edit or remove options as required)
 
 email: doc@steveharris.me
-phone: 888 888 88 88
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+  street: 235 Euston Road
+  city: London
+  postcode: 'NW1 2BU'
+  country: United Kingdom
+  country_code: UK
+coordinates: 
+  latitude: '51.5254177'
+  longitude: '-0.1362780'
+directions: 3rd Floor Maple Link Bridge Corridor
+# office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
@@ -58,12 +57,12 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-uk
 
 # Site features
 
 highlight: false
-math: false
+math: true
 diagram: false
 privacy_pack: false
 show_related:
