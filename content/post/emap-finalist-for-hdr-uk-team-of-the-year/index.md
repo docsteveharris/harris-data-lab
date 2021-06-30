@@ -8,6 +8,8 @@ summary: >-
   See [UCLH](https://www.uclhospitals.brc.nihr.ac.uk/news/uclh-team-finalists-team-year-data-award) and [HDR-UK](https://www.hdruk.ac.uk/case-studies/emap-experimental-medicine-application-platform/) news items
 draft: false
 featured: false
+authors:
+  - matt-wilson
 image:
   filename: featured
   focal_point: Smart
