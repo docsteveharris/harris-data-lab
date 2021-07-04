@@ -1,4 +1,5 @@
 ---
+title: Matt Wilson
 role: Doctoral Research Student
 bio: My research interests include learning health care systems.
 interests:
@@ -23,12 +24,11 @@ organizations:
     url: ""
 education:
   courses: []
+email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - PhD-students
 highlight_name: false
-title: Matt Wilson
-email: ""
 ---
 *Variation in how clinicians apply treatments and interventions is a widespread phenomenon across all facets of health services.  It arises due to the lack of robust evidence to guide clinical decision making, and from individual assessment of the relevance of evidence to each unique scenario.*
 
