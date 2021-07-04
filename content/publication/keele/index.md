@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - L Keele
-- S Harris
+- Steve Harris
 - R Grieve
 tags:
 - '""'

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - K Pickard
-- S Harris
+- Steve Harris
 tags:
 - '""'
 categories: []

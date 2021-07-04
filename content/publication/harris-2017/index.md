@@ -5,7 +5,7 @@ title: 'Sepsis-3: Syndromes and Empiricism in the Age of Big Data.'
 subtitle: ''
 summary: ''
 authors:
-- S Harris
+- Steve Harris
 tags:
 - '""'
 categories: []

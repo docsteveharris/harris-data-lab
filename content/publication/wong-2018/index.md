@@ -8,7 +8,7 @@ authors:
 - D.J.N. Wong
 - A. Sahni
 - J.R. Bedford
-- S.K. Harris
+- Steve Harris
 - S.R. Moonesinghe
 tags:
 - '""'

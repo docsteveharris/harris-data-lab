@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J Barnes
 - J Hunter
-- S Harris
+- Steve Harris
 - M Shankar-Hari
 - E Diouf
 - I Jammer

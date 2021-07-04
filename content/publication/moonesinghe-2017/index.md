@@ -12,7 +12,7 @@ authors:
 - L Farmer
 - R Shawyer
 - PS Myles
-- SK Harris
+- Steve Harris
 - Project team SNAP-2
 - Steering Group
 tags:

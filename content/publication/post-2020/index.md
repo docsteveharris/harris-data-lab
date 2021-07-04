@@ -8,7 +8,7 @@ summary: ''
 authors:
 - B Post
 - E Palmer
-- S Harris
+- Steve Harris
 - M Singer
 - D Martin
 tags:

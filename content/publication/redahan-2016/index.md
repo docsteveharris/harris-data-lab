@@ -36,8 +36,7 @@ projects: []
 publishDate: '2021-07-04T12:15:49.736062Z'
 publication_types:
 - '2'
-abstract: '© The Author 2016. Published by Oxford University Press on behalf of ERA-EDTA.
-  All rights reserved.Introduction and Aims: Acute kidney injury (AKI) is a common
+abstract: 'Introduction and Aims: Acute kidney injury (AKI) is a common
   complication of critical illness. Renal replacement therapy (RRT) is required in
   severe cases. There is considerable variability in the provision of renal support
   for critically ill patients. Current epidemiological data regarding the utilisation

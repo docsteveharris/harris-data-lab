@@ -6,7 +6,7 @@ title: 'Delay to admission to critical care and mortality among deteriorating wa
 subtitle: ''
 summary: ''
 authors:
-- S Harris
+- Steve Harris
 - M Singer
 - K Rowan
 - C Sanderson

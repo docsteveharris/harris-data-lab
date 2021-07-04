@@ -9,7 +9,7 @@ authors:
 - Vijay Krishnamoorthy
 - Duncan McLean
 - Tetsu Ohnuma
-- Steve K. Harris
+- Steve Harris
 - Danny J.N. Wong
 - Matt Wilson
 - Ramani Moonesinghe

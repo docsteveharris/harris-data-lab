@@ -5,7 +5,7 @@ title: Annual Update in Intensive Care and Emergency Medicine 2018
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Vincent
+- Steve Harris
 tags:
 - '"Medical"'
 categories: []

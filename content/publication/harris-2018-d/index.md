@@ -6,7 +6,7 @@ title: 'Critical Care Health Informatics Collaborative (CCHIC): Data, tools and 
 subtitle: ''
 summary: ''
 authors:
-- S Harris
+- Steve Harris
 - S Shi
 - D Brealey
 - NS MacCallum

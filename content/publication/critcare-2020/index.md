@@ -6,7 +6,8 @@ title: Establishing a critical care network in Asia to improve care for critical
 subtitle: ''
 summary: ''
 authors:
-- ASIA CRIT CARE
+- Crit Care Asia 
+- Steve Harris
 tags:
 - '""'
 categories: []

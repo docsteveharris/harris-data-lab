@@ -9,7 +9,7 @@ authors:
 - E Palmer
 - S Ciechanowicz
 - A Reeve
-- S Harris
+- Steve Harris
 - DJN Wong
 - P Sultan
 tags:

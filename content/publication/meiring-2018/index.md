@@ -7,7 +7,7 @@ summary: ''
 authors:
 - C Meiring
 - A Dixit
-- S Harris
+- Steve Harris
 - NS MacCallum
 - DA Brealey
 - PJ Watkinson

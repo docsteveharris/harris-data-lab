@@ -8,7 +8,7 @@ summary: ''
 authors:
 - A Banerjee
 - L Pasea
-- S Harris
+- Steve Harris
 - A Gonzalez-Izquierdo
 - A Torralbo
 - L Shallcross

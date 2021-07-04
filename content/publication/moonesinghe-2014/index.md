@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - SR Moonesinghe
-- S Harris
+- Steve Harris
 - MG Mythen
 - KM Rowan
 - FS Haddad

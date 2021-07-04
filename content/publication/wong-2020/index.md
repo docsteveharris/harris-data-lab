@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - DJN Wong
-- S Harris
+- Steve Harris
 - A Sahni
 - JR Bedford
 - L Cortes

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - E Palmer
 - R Klapaukh
-- S Harris
+- Steve Harris
 - M Singer
 - ' INFORM-lab'
 tags:

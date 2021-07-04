@@ -6,7 +6,7 @@ title: Relationship between patients’ outcomes and the changes in serum creati
 subtitle: ''
 summary: ''
 authors:
-- SK Harris
+- Steve Harris
 - AJ Lewington
 - DA Harrison
 - KM Rowan

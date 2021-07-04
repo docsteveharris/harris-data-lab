@@ -9,7 +9,7 @@ authors:
 - HC Tissot
 - AD Shah
 - D Brealey
-- S Harris
+- Steve Harris
 - R Agbakoba
 - A Folarin
 - L Romao

@@ -4,21 +4,20 @@ title: "Developing and validating subjective and objective risk-assessment
   prospective cohort study"
 subtitle: ""
 authors:
-  - Wong
-  - DJN; Harris
-  - S; Sahni
-  - A; Bedford
-  - JR; Cortes
-  - L; Shawyer
-  - R; Wilson
-  - AM; Lindsay
-  - HA; Campbell
-  - D; Popham
-  - S; Barneto
-  - LM; Myles
-  - "PS; SNAP-2:"
-  - EPICCS collaborators; Moonesinghe
-  - SR
+  - Danny Wong
+  - Steve Harris
+  - Sahni A
+  - James Bedford
+  - L Cortes
+  - R Shawyer
+  - M Wilson
+  - H Lindsay
+  - D Campbell
+  - S Popham
+  - L Barneto
+  - P Myles
+  - "SNAP-2:  EPICCS collaborators"
+  - SR Moonesinghe
 author_notes: []
 doi: 10.1371/journal.pmed.1003253
 publication_short: PLoS Med

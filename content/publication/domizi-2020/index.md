@@ -8,7 +8,7 @@ summary: ''
 authors:
 - R Domizi
 - S Calcinaro
-- S Harris
+- Steve Harris
 - C Beilstein
 - C Boerma
 - JD Chiche

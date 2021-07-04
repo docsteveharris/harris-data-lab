@@ -8,7 +8,7 @@ authors:
 - S Hashim
 - DJN Wong
 - L Farmer
-- SK Harris
+- Steve Harris
 - SR Moonesinghe
 tags:
 - '"⛔ No DOI found"'
