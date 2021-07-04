@@ -1,73 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Steve Harris
+role: UCLH Critical Care Consultant / Honorary Associate Professor UCL Institute
+  of Health Informatics
+avatar_filename: 2019-03-28-ucl-headshot.jpeg
+bio: My research focuses on deploying statistical models into the clinical work
+  space.
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:hello@steveharris.me
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/drstevok
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=_vGtYVgAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/docsteveharris
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - name: University College London Hospital
+    url: https://www.uclh.nhs.uk/our-services/find-consultant/dr-steve-harris
+  - url: https://www.ucl.ac.uk/health-informatics/steve-harris
+    name: University College London
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Fellowship of the Faculty of Intensive Care Medicine
+      institution: FICM
+      year: 2015
+    - course: PhD in Health Services Research
+      institution: London School of Hygiene and Tropical Medicine
+      year: 2014
+    - course: Bachelor of Medicine and Surgery
+      institution: University of Oxford
+      year: 1999
+    - course: MA (Cantab) Medical Sciences / Social and Political Sciences
+      institution: University of Cambridge
+      year: 1995
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
 ---
+I am a Critical Care physician. My clinical training included anaesthesia and tropical medicine, and I worked for Medecins Sans Frontieres in Congo-Brazzaville, the Democratic Republic of Congo and Haiti. In 2009, I won a Wellcome Clinical Research Training Fellowship. This funded the largest prospective cohort study of deteriorating ward patients in the NHS jointly run from the London School of Hygiene and Tropical Medicine (LSHTM), and Intensive Care National Audit & Research Centre (ICNARC). We showed that decision making around the time of referral to critical care is variable, and constrained by bed availability. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was awarded my PhD from LSHTM in 2014, and became an National Institute of Health Research (NIHR) Clinical Lecturer at University College London (UCL) before being appointed as a Consultant in Critical Care at University College Hospital London (UCLH) in 2016. I now lead the software development for the NIHR Health Informatics Collaborative Critical Care theme in which we have developed the first multi-centre research database for critical care (around 40 000 patients and 50 million unique data points per year). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2016, I became an Improvement Science Fellow for the Health Foundation, and began building a live data analytics platform (EMAP) for UCLH supported from UCLH Charity. And in 2020, I won funding from NHS-X to build a Hyperlocal ward forecasting system.
