@@ -1,7 +1,7 @@
 ---
 title: Steve Harris
 role: PhD FRCA FICM
-avatar_filename: 2019-03-28-ucl-headshot.jpeg
+avatar_filename: avatar.jpg
 bio: My research focuses on deploying statistical models into the clinical work
   space.
 interests: []
