@@ -34,8 +34,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "3"
 authors:
-  - Lai
-  - Alvina G.
+  - admin
 publication: ""
 featured: false
 tags:
@@ -58,7 +57,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: https://www.hdruk.ac.uk/wp-content/uploads/2021/03/shutterstock_317585759-2-800x450.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: 10.1101/2021.01.10.21249331
