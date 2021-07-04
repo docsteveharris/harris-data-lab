@@ -1,7 +1,6 @@
 ---
 title: Steve Harris
-role: UCLH Critical Care Consultant / Honorary Associate Professor UCL Institute
-  of Health Informatics
+role: PhD FRCA FICM
 avatar_filename: 2019-03-28-ucl-headshot.jpeg
 bio: My research focuses on deploying statistical models into the clinical work
   space.
