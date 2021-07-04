@@ -18,6 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/docsteveharris
+  - display:
+      header: false
+    link: https://www.alittleknowledge.net/
+    icon_pack: fab
+    icon: microblog
 organizations:
   - name: University College London Hospital
     url: https://www.uclh.nhs.uk/our-services/find-consultant/dr-steve-harris
