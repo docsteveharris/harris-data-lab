@@ -5,17 +5,17 @@ name = "Cyberpunk"
 is_light = false
 
 # Primary
-primary = "rgb(156, 164, 63)"
+primary = "#5f8ace"
 
 # Menu
-menu_primary = "#9ca43e"
+menu_primary = "#2f69c2"
 menu_text = "#000"
-menu_text_active = "rgb(156, 164, 63)"
+menu_text_active = "#e2d234"
 menu_title = "#000"
 
 [dark]
   # Menu
-  menu_primary = "#9ca43e"
+  menu_primary = "#5f8ace"
   menu_text = "#000"
   menu_text_active = "#000"
   menu_title = "#000"
