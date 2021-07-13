@@ -39,6 +39,11 @@ social:
     link: https://www.linkedin.com/in/tomlincr
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://ctomlinson.net
+    icon_pack: fas
+    icon: globe
 superuser: false
 user_groups:
   - "- Academic Researchers"
