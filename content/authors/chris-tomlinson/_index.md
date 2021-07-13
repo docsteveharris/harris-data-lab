@@ -46,5 +46,5 @@ social:
     icon: globe
 superuser: false
 user_groups:
-  - "- Academic Researchers"
+  - "Academic Researchers"
 ---
