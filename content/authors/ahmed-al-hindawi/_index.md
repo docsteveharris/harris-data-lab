@@ -15,6 +15,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
+  - Chaiwala
 highlight_name: false
 ---
