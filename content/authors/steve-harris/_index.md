@@ -45,7 +45,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
+  - Academic Researchers
 highlight_name: false
 ---
 I am a Critical Care physician. My clinical training included anaesthesia and tropical medicine, and I worked for Medecins Sans Frontieres in Congo-Brazzaville, the Democratic Republic of Congo and Haiti. In 2009, I won a Wellcome Clinical Research Training Fellowship. This funded the largest prospective cohort study of deteriorating ward patients in the NHS jointly run from the London School of Hygiene and Tropical Medicine (LSHTM), and Intensive Care National Audit & Research Centre (ICNARC). We showed that decision making around the time of referral to critical care is variable, and constrained by bed availability. 
