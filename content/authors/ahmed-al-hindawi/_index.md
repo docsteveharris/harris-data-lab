@@ -15,6 +15,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Chaiwala
+  - Academic Researchers
 highlight_name: false
 ---
