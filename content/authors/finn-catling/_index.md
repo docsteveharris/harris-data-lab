@@ -17,7 +17,7 @@ social:
   - display:
       header: false
     link: https://www.imperial.ac.uk/people/f.catling
-    icon_pack: fab
+    icon_pack: fas
     icon: globe
 organizations: []
 education:
