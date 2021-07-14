@@ -27,7 +27,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Academic Researchers
 highlight_name: false
 ---
 *Variation in how clinicians apply treatments and interventions is a widespread phenomenon across all facets of health services.  It arises due to the lack of robust evidence to guide clinical decision making, and from individual assessment of the relevance of evidence to each unique scenario.*
