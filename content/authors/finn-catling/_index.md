@@ -18,7 +18,7 @@ social:
       header: false
     link: https://www.imperial.ac.uk/people/f.catling
     icon_pack: fab
-    icon: microblog
+    icon: globe
 organizations: []
 education:
   courses: []
