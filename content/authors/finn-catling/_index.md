@@ -16,6 +16,11 @@ social:
     link: https://twitter.com/FinnCatling
   - display:
       header: false
+    icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/finncatling
+  - display:
+      header: false
     link: https://www.imperial.ac.uk/people/f.catling
     icon_pack: fas
     icon: globe
