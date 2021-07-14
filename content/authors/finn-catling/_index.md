@@ -2,7 +2,7 @@
 title: Finn Catling
 role: MBChB MSc MRCP(UK) FFCI
 avatar_filename: finn-catling-square-closer-lowres.jpg
-bio: ""
+bio: Critical Care Doctor | Wellcome Trust PhD Fellow
 interests: []
 social:
   - icon: envelope
