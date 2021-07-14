@@ -8,12 +8,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:f.catling@imperial.ac.uk
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/FinnCatling
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Finn-Catling
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/FinnCatling
   - display:
       header: false
     link: https://www.imperial.ac.uk/people/f.catling
@@ -23,7 +23,7 @@ organizations: []
 education:
   courses: []
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Academic Researchers
 highlight_name: false
